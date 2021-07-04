@@ -1,0 +1,102 @@
+html{
+    
+    max-width: 100%;
+    max-height:100% ;
+
+}
+h1{
+    color: white;
+    text-align: center;
+
+}
+body{
+
+    background:url(/water.jpg);
+    /* color: rgb(153, 147, 147); */
+    height: 100%;
+    /* margin-top: -20px; */
+    /* margin-top: 50px;
+  */
+    
+    
+}
+.navigation{
+    /* background-color: cornflowerblue; */
+    color: white;
+    margin-bottom:-16px;
+    /* opacity: 0.7; */
+    width: 100%;
+    /* display: flex;
+    flex-direction: column; */
+}
+.list ul{
+    display: flex;
+    flex-direction:row;
+    height: 50px;
+    padding-top: 40px;
+
+}  
+.logo{
+    margin-right: 800px;
+}
+.home{
+    margin-right: 50px;}
+.about{
+    margin-right: 50px;
+
+}
+
+
+
+/* ul{
+    color:white;
+    font-weight: 900;
+    display: flex;
+    height: 50px;
+    flex-direction: column;
+} */
+.content {
+    position: relative;
+    background-color: cornflowerblue;
+    color: white;
+    /* opacity: 0.2; */
+    height:100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    /* margin: 30px; */
+    
+}
+.content1{
+    display: flex;
+    flex-direction: row;
+    margin-right:400px;
+}
+.content2{
+    display: flex;
+    flex-direction: row;
+    margin-right:400px;
+
+}
+.content3{
+    display: flex;
+    flex-direction: row;
+    margin-right:50px;
+
+}
+#copyright{
+    position: relative;
+    background-color: rgb(153, 147, 147);
+    color: white;
+    text-emphasis: bold;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin-top: -16px;
+    padding-top: 8px;
+    /* bottom: 0px;
+    left: 0px; */
+   
+   
+
+}
